@@ -1,7 +1,7 @@
 # LongDist
-#Sourcode  
+## Sourcecode  
 The sourcecode is inspired by [Das et. al (2018)], we displays the part of code that involves our model.  
-#Dataset  
+## Dataset  
 The FC8 is the first dataset that focus on the long distance link prediction task.  
 
 ------
